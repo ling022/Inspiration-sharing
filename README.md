@@ -20,10 +20,10 @@
 >
 > 截图：（部署后放到 docs/ 目录下）
 >
-> ![首页](./docs/home.png)
-> ![详情页](./docs/detail.png)
-> ![私信](./docs/message.png)
-> ![管理端](./docs/admin.png)
+> ![首页](https://github.com/user-attachments/assets/5e7c6bcf-d7be-4ff0-8ccc-e7f378c19ec6)
+> ![详情页](https://github.com/user-attachments/assets/e02a9d18-dfda-416f-ba17-4ae4c3578124)
+> ![私信](https://github.com/user-attachments/assets/1104da2d-fc48-42f3-ade8-3d040f71e99f)
+> ![管理端](https://github.com/user-attachments/assets/b85e7c4b-04ec-4090-8875-c7bf28d58869)
 
 ## 技术栈
 
